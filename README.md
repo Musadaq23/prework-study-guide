@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a study guide that will help me and others throughout this bootcamp to remember the basics og HTML, CSS, JavaScript and Git.
+This is a study guide that will help me and others throughout this bootcamp to remember the basics of HTML, CSS, JavaScript and Git.
 
 
 ## Installation
